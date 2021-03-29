@@ -1,7 +1,7 @@
 # SquirrelsFast - Age Guesser
 
 1. Download all the files
-2. Run the "SquirrelsFast-Age-Guesser-x64-1.0.0-setup" file as Administrator.
+2. Run the "SquirrelsFast-Age-Guesser-x64-1.0.0-setup.exe" file as Administrator.
 ***
 Follow the setup wizard instructions. After the installation, you can find the program shortcut on your desktop as "SquirrelsFast Age Guesser".
 ***
